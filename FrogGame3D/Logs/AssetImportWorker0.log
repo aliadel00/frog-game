@@ -1,0 +1,1919 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 6091 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/frog-game/FrogGame3D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54890
+Successfully changed project path to: D:/frog-game/FrogGame3D
+D:/frog-game/FrogGame3D
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 66.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/frog-game/FrogGame3D/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x126)
+    Vendor:   
+    VRAM:     128 MB
+    Driver:   9.17.10.4459
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56468
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004757 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 46.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.170 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000879 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.787 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1559.
+Total: 3.935800 ms (FindLiveObjects: 0.176000 ms CreateObjectMapping: 0.061600 ms MarkObjects: 3.472700 ms  DeleteObjects: 0.221800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/ToxicFrog_FBX.fbx
+  artifactKey: Guid(75116d3ad847f4b308aea41d92d1efb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/ToxicFrog_FBX.fbx using Guid(75116d3ad847f4b308aea41d92d1efb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c07dae6c8e5e94864fd42a837f40a6d') in 2.422917 seconds
+  Import took 2.457393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Models
+  artifactKey: Guid(e7de465850b85ce409b9c0b9a7721d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(e7de465850b85ce409b9c0b9a7721d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80b0d89138a8ee81383a061d66de883a') in 0.009547 seconds
+  Import took 0.013392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Models/poisondartfrog
+  artifactKey: Guid(b9b9a266281dcbf47b1d73b094188e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog using Guid(b9b9a266281dcbf47b1d73b094188e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35c2edf22039288ee9c018c38c7c0804') in 0.009417 seconds
+  Import took 0.013487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/GutsBlood.prefab
+  artifactKey: Guid(b0dea9a92e04b412daeb449ac74853bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/GutsBlood.prefab using Guid(b0dea9a92e04b412daeb449ac74853bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd85213d94846b23255b430471a2409') in 0.112197 seconds
+  Import took 0.116344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/ToxicFrog.prefab
+  artifactKey: Guid(0187bdd962557471faee34c9b592135c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/ToxicFrog.prefab using Guid(0187bdd962557471faee34c9b592135c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc4e61c1d99a69e66af4f5af40892451') in 0.570049 seconds
+  Import took 0.580303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/GutsBlood.prefab
+  artifactKey: Guid(b0dea9a92e04b412daeb449ac74853bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/GutsBlood.prefab using Guid(b0dea9a92e04b412daeb449ac74853bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd85213d94846b23255b430471a2409') in 0.048873 seconds
+  Import took 0.066814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000598 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs
+  artifactKey: Guid(16c90b8f77e62204ea81183d6c92752f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs using Guid(16c90b8f77e62204ea81183d6c92752f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64d487aaadec29736317402e1af8fba4') in 0.013657 seconds
+  Import took 0.018005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/ToxicFrog.prefab
+  artifactKey: Guid(0187bdd962557471faee34c9b592135c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/ToxicFrog.prefab using Guid(0187bdd962557471faee34c9b592135c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc4e61c1d99a69e66af4f5af40892451') in 0.065100 seconds
+  Import took 0.073798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.016585 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/FrogController.cs
+  artifactKey: Guid(ed1a9b8583901482d9890a401a5be5b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/FrogController.cs using Guid(ed1a9b8583901482d9890a401a5be5b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a31765edf6bf5f2c41f01085e30d046a') in 0.104656 seconds
+  Import took 0.107993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.480903 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/RotateCamFrog.cs
+  artifactKey: Guid(993c9be2f88b84baba4484f9606fab4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/RotateCamFrog.cs using Guid(993c9be2f88b84baba4484f9606fab4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63ed4fdc3dfa46661c6d45161cf3cf90') in 0.011999 seconds
+  Import took 0.068230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.385402 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/ToxicFrogAC.controller
+  artifactKey: Guid(6c9a927ec10d14ce9be8d0562e39e1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/ToxicFrogAC.controller using Guid(6c9a927ec10d14ce9be8d0562e39e1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11af0a7f966ce90ed49d0ceccfa9f8f6') in 0.030478 seconds
+  Import took 0.035715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.799043 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/ToxicFrogSampleScene.unity
+  artifactKey: Guid(3bdfa27a6c9684a1cb35ee481c1c2674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/ToxicFrogSampleScene.unity using Guid(3bdfa27a6c9684a1cb35ee481c1c2674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82ebbff711303440b86564d50b0cb20f') in 0.012498 seconds
+  Import took 0.030982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.699009 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/textures
+  artifactKey: Guid(fdb18bcbf46d24abe934c4d27bef1de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/textures using Guid(fdb18bcbf46d24abe934c4d27bef1de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23fe6386d5e6cad05b314cf76c69d780') in 0.011245 seconds
+  Import took 0.062795 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001320 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.216 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1609.
+Total: 2.531800 ms (FindLiveObjects: 0.223300 ms CreateObjectMapping: 0.055400 ms MarkObjects: 2.129600 ms  DeleteObjects: 0.121400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 350.684267 seconds.
+  path: Packages/com.unity.ugui
+  artifactKey: Guid(8f7652e09069a1943278893d4264401e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ugui using Guid(8f7652e09069a1943278893d4264401e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fe4002eabcf136df8fa29e8d7998a02') in 0.022447 seconds
+  Import took 0.026330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.083613 seconds.
+  path: Packages/com.unity.ugui/package.json
+  artifactKey: Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ugui/package.json using Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddff852e94dfe50e1cae040e39bc20b9') in 0.071549 seconds
+  Import took 0.074744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.076959 seconds.
+  path: Assets/SimpleEnviroment
+  artifactKey: Guid(b60b6d0ea08e6c94c94385a69c6e3a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleEnviroment using Guid(b60b6d0ea08e6c94c94385a69c6e3a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72a5906c544eafeaa70856b4b92682dd') in 0.014372 seconds
+  Import took 0.019963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002239 seconds.
+  path: Assets/SimpleEnviroment
+  artifactKey: Guid(b60b6d0ea08e6c94c94385a69c6e3a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleEnviroment using Guid(b60b6d0ea08e6c94c94385a69c6e3a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72a5906c544eafeaa70856b4b92682dd') in 0.007753 seconds
+  Import took 0.012162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.812114 seconds.
+  path: Assets/SimpleEnviroment/Models
+  artifactKey: Guid(c6ba0d58a44174ff398e0fa5c9db8849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleEnviroment/Models using Guid(c6ba0d58a44174ff398e0fa5c9db8849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01d7547b1bfde02cbee135de4c3d6534') in 0.013517 seconds
+  Import took 0.017264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.402184 seconds.
+  path: Assets/SimpleEnviroment/Models/game_objects
+  artifactKey: Guid(90d49579026ff483db801ac71b183af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleEnviroment/Models/game_objects using Guid(90d49579026ff483db801ac71b183af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29ca372e4f66cf66f788740ecc120103') in 0.011939 seconds
+  Import took 0.015818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.818221 seconds.
+  path: Assets/SimpleEnviroment/Models/theme_forest
+  artifactKey: Guid(00e83b0ed1f994b31a76aa87831870c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleEnviroment/Models/theme_forest using Guid(00e83b0ed1f994b31a76aa87831870c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a44067abc2a46127a17ff79b98d3a920') in 0.016695 seconds
+  Import took 0.020551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.088477 seconds.
+  path: Assets/SimpleEnviroment/Models/theme_forest/environment
+  artifactKey: Guid(fa4b3540fec244349bee981c31558b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleEnviroment/Models/theme_forest/environment using Guid(fa4b3540fec244349bee981c31558b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be2fc039a52ab1b2daa3fe689b11430') in 0.016815 seconds
+  Import took 0.020941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.601798 seconds.
+  path: Assets/SimpleEnviroment/Models/theme_forest/environment/forest_ground.FBX
+  artifactKey: Guid(d48b8e247e9327245a9648c6ce0f55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleEnviroment/Models/theme_forest/environment/forest_ground.FBX using Guid(d48b8e247e9327245a9648c6ce0f55c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b9f5de9325de60b3482bd570cb6c312') in 0.361252 seconds
+  Import took 0.365733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/SimpleEnviroment/Models/theme_forest/environment/forest_side.FBX
+  artifactKey: Guid(9e321db0e75e962459c6179a49d707d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleEnviroment/Models/theme_forest/environment/forest_side.FBX using Guid(9e321db0e75e962459c6179a49d707d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3e33f8c40cae0294ae2902cfac3f64b') in 0.035825 seconds
+  Import took 0.038713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/SimpleEnviroment/Models/theme_forest/environment/forest_shadow_caster.FBX
+  artifactKey: Guid(c9a571b47144ec2459bf7bc174adb706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleEnviroment/Models/theme_forest/environment/forest_shadow_caster.FBX using Guid(c9a571b47144ec2459bf7bc174adb706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c05fee3c15ad4f644ef69c41defc68d') in 0.044447 seconds
+  Import took 0.048575 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000910 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.227 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.8 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1615.
+Total: 2.322000 ms (FindLiveObjects: 0.250000 ms CreateObjectMapping: 0.059100 ms MarkObjects: 1.892600 ms  DeleteObjects: 0.117600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000944 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.948 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.8 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1618.
+Total: 2.865100 ms (FindLiveObjects: 0.221400 ms CreateObjectMapping: 0.054900 ms MarkObjects: 2.458200 ms  DeleteObjects: 0.126500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001483 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.025 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.8 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1621.
+Total: 3.858300 ms (FindLiveObjects: 0.327100 ms CreateObjectMapping: 0.081200 ms MarkObjects: 3.268900 ms  DeleteObjects: 0.177600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1344.446005 seconds.
+  path: Assets/Simple city plain
+  artifactKey: Guid(e7283b05da6e75f47a3c826cbd7ee454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain using Guid(e7283b05da6e75f47a3c826cbd7ee454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03270d15de7410df85df370ad1e4bf71') in 0.016325 seconds
+  Import took 0.020403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002748 seconds.
+  path: Assets/Simple city plain
+  artifactKey: Guid(e7283b05da6e75f47a3c826cbd7ee454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain using Guid(e7283b05da6e75f47a3c826cbd7ee454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03270d15de7410df85df370ad1e4bf71') in 0.002874 seconds
+  Import took 0.007283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.152622 seconds.
+  path: Assets/Simple city plain/Material & Texture
+  artifactKey: Guid(303261bbfeb508d44b9dd651e94c3611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture using Guid(303261bbfeb508d44b9dd651e94c3611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f65ed6714a58a61227395578aac94a3') in 0.014071 seconds
+  Import took 0.017647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.093588 seconds.
+  path: Assets/Simple city plain/Material & Texture/Day.mat
+  artifactKey: Guid(dfd5fe4561034804291bb92fffe808d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Day.mat using Guid(dfd5fe4561034804291bb92fffe808d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a267d08a9cdb11987d191110741f569a') in 0.287636 seconds
+  Import took 0.291184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Simple city plain/Material & Texture/Night.mat
+  artifactKey: Guid(2693a75b9cc71fb4bae0674a2e512e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Night.mat using Guid(2693a75b9cc71fb4bae0674a2e512e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e6de249a15f399abe50985e45af76d2') in 0.017067 seconds
+  Import took 0.019966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.361541 seconds.
+  path: Assets/Simple city plain/Material & Texture/color_windows
+  artifactKey: Guid(78b377d81b1300248b8a44bf8b46ca01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/color_windows using Guid(78b377d81b1300248b8a44bf8b46ca01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88d5da4b01c3624f392cbca1bfba1ceb') in 0.011113 seconds
+  Import took 0.016368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095077 seconds.
+  path: Assets/Simple city plain/Material & Texture/color_windows/Windows light 1.mat
+  artifactKey: Guid(d7636558dbd50f7429a53d5bc6352a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/color_windows/Windows light 1.mat using Guid(d7636558dbd50f7429a53d5bc6352a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c608cd51ef635bc70aef64b00dd7f76e') in 0.200145 seconds
+  Import took 0.203268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Simple city plain/Material & Texture/color_windows/Windows light 2.mat
+  artifactKey: Guid(763d547f29cebc443a26da20545010dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/color_windows/Windows light 2.mat using Guid(763d547f29cebc443a26da20545010dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3919c48e5424fc9a4c452412615c38cb') in 0.019361 seconds
+  Import took 0.022755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Simple city plain/Material & Texture/color_windows/Windows no light.mat
+  artifactKey: Guid(26df91506bf83b343b8083c5322323ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/color_windows/Windows no light.mat using Guid(26df91506bf83b343b8083c5322323ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd1095bdfbda243a29a6c5a2244fbca6') in 0.022083 seconds
+  Import took 0.028861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.285047 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings
+  artifactKey: Guid(bf61a2997700b9e449a9c2898e7dbb81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings using Guid(bf61a2997700b9e449a9c2898e7dbb81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47469b8515f73cc05ce7d3713c414710') in 0.016518 seconds
+  Import took 0.020745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073046 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/A.mat
+  artifactKey: Guid(3c98c150d6196ef419f666d71cf7d13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/A.mat using Guid(3c98c150d6196ef419f666d71cf7d13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5e738d40f1f469d4a1eee0df9fb18cf') in 0.025009 seconds
+  Import took 0.029237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/A2.mat
+  artifactKey: Guid(5188c7492ef51d143a7128aa9700788a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/A2.mat using Guid(5188c7492ef51d143a7128aa9700788a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c709a6025d3d30449b52c7a88904ad6c') in 0.028944 seconds
+  Import took 0.033774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/K7.mat
+  artifactKey: Guid(2100b85841ac32940a50ec36409b49c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/K7.mat using Guid(2100b85841ac32940a50ec36409b49c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c489a0060859e1801756dcac685d70a') in 0.028422 seconds
+  Import took 0.031574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/C2.mat
+  artifactKey: Guid(0510da7b3809d94478e8a6a4f562366e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/C2.mat using Guid(0510da7b3809d94478e8a6a4f562366e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '317d30de04c96b713a2c4db10006dcf3') in 0.030447 seconds
+  Import took 0.035666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/I3.mat
+  artifactKey: Guid(ce22e4b8667c6c4498256004a51def48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/I3.mat using Guid(ce22e4b8667c6c4498256004a51def48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d745e820b2e934a787accd42456c92') in 0.029596 seconds
+  Import took 0.033369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/E3.mat
+  artifactKey: Guid(4e806bb1fdee85a44aca49978bc274e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/E3.mat using Guid(4e806bb1fdee85a44aca49978bc274e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31caeba588999923129fb41a1fe79931') in 0.026358 seconds
+  Import took 0.029812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/H2.mat
+  artifactKey: Guid(6f227c8592ad80a41be32efd278da65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/H2.mat using Guid(6f227c8592ad80a41be32efd278da65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a005104a2744ba1621c3bd52e429b274') in 0.025416 seconds
+  Import took 0.030086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/k12.mat
+  artifactKey: Guid(8d50894cec04b584c99d0e15c717bf2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/k12.mat using Guid(8d50894cec04b584c99d0e15c717bf2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd1fb612244325b39ce865420e893cdb') in 0.037749 seconds
+  Import took 0.041540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/D2.mat
+  artifactKey: Guid(527a2f1bf2a8e6b44a73711edbc69733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/D2.mat using Guid(527a2f1bf2a8e6b44a73711edbc69733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaea0f4b303217d89edc048b9bb7a2ae') in 0.030584 seconds
+  Import took 0.034450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/C1.mat
+  artifactKey: Guid(b46491bf8bcc7974e9c5b185ed3a64df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/C1.mat using Guid(b46491bf8bcc7974e9c5b185ed3a64df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '434d372ce6311a29048bc7a4ce57021a') in 0.029611 seconds
+  Import took 0.033879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/D1.mat
+  artifactKey: Guid(be3dd0dbeba4e0e44b4a036604ec5247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/D1.mat using Guid(be3dd0dbeba4e0e44b4a036604ec5247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f826b9001b4f07bd2195a02f65c83909') in 0.071345 seconds
+  Import took 0.076825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001251 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/D3.mat
+  artifactKey: Guid(08e170aeffe61fd49b962982cf27cd52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/D3.mat using Guid(08e170aeffe61fd49b962982cf27cd52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d775dd2e1f43730357d6c36b85510c7') in 0.031948 seconds
+  Import took 0.035859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/E2.mat
+  artifactKey: Guid(04ea80a7b7a8f25419eec6649973eba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/E2.mat using Guid(04ea80a7b7a8f25419eec6649973eba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d591c7c1e59c0f155563a6606a80ca') in 0.027826 seconds
+  Import took 0.032995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/K13.mat
+  artifactKey: Guid(385015333524c4947bf237c08e46d007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/K13.mat using Guid(385015333524c4947bf237c08e46d007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49e5619d707d09210e2229a09590607a') in 0.031982 seconds
+  Import took 0.035429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/F2.mat
+  artifactKey: Guid(125b8e3d7d52f1a4a9341372677b8015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/F2.mat using Guid(125b8e3d7d52f1a4a9341372677b8015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b082f9d0e37543abd0e1d62e591ae4a') in 0.044123 seconds
+  Import took 0.047872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001338 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/I2.mat
+  artifactKey: Guid(cea0c4191eb5cb440aa5355d44958681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/I2.mat using Guid(cea0c4191eb5cb440aa5355d44958681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '361b9f7d47c7f5c3450a215168d7a26f') in 0.028182 seconds
+  Import took 0.033484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/K2.mat
+  artifactKey: Guid(0b5ab4b8a0e43004ba5e294fbe6cf73a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/K2.mat using Guid(0b5ab4b8a0e43004ba5e294fbe6cf73a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b9f538913848b8d0a83dcb9dbc3551') in 0.030988 seconds
+  Import took 0.037343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/B1.mat
+  artifactKey: Guid(b1aa805cd8c03914ea529c0d11595111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/B1.mat using Guid(b1aa805cd8c03914ea529c0d11595111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22598b49624d412ee17b13edc4fdf13b') in 0.029805 seconds
+  Import took 0.033602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/K4.mat
+  artifactKey: Guid(711bad159df31524ca17958a0c56fbf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/K4.mat using Guid(711bad159df31524ca17958a0c56fbf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4191de4ef30b6dbd3aa66e3f22c900ac') in 0.031090 seconds
+  Import took 0.035317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/J2.mat
+  artifactKey: Guid(fe6ba248f97095d49869fcb5611b50d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/J2.mat using Guid(fe6ba248f97095d49869fcb5611b50d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '623c42512d266dfc7e57fe39f00a2a33') in 0.027508 seconds
+  Import took 0.031107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/B3.mat
+  artifactKey: Guid(6654366d45d22054abd260171b0f7c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/B3.mat using Guid(6654366d45d22054abd260171b0f7c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26a2d42ed326bd7500bc40effe7f8f95') in 0.029073 seconds
+  Import took 0.033140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/C3.mat
+  artifactKey: Guid(91155d9f14bc7c24885accb7c3b9025f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/C3.mat using Guid(91155d9f14bc7c24885accb7c3b9025f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d4fd86a560907e642857458646439ba') in 0.031693 seconds
+  Import took 0.035947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/J1.mat
+  artifactKey: Guid(8bf8e8eb3c4ec9c4e9f79488c39bff59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/J1.mat using Guid(8bf8e8eb3c4ec9c4e9f79488c39bff59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1df0d28c62d2f675550fadbd6b437c84') in 0.037172 seconds
+  Import took 0.043004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/G3.mat
+  artifactKey: Guid(ed6309fcf2465f8459ee0d575167c0ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/G3.mat using Guid(ed6309fcf2465f8459ee0d575167c0ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95360ce49c1f64dc69d3839a1c41a7d1') in 0.029363 seconds
+  Import took 0.033021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/E1.mat
+  artifactKey: Guid(76d6265878226dc409ce872e24203b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/E1.mat using Guid(76d6265878226dc409ce872e24203b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1b61bdeca9a148cc1283d66ff1e174c') in 0.043268 seconds
+  Import took 0.047287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/A3.mat
+  artifactKey: Guid(c4d3a0c81c5ffb34889379e1a1cf85bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/A3.mat using Guid(c4d3a0c81c5ffb34889379e1a1cf85bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3982a118986b8ece2ebed94b9dab8585') in 0.028324 seconds
+  Import took 0.031785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/K1.mat
+  artifactKey: Guid(1a0dec1fa084e1b4abd7c6cf33e568ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/K1.mat using Guid(1a0dec1fa084e1b4abd7c6cf33e568ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a274fc6583f23d271a48c6dd277db27') in 0.035891 seconds
+  Import took 0.040154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/A1.mat
+  artifactKey: Guid(1af4b0d855a4f694baba51a55f5c6cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/A1.mat using Guid(1af4b0d855a4f694baba51a55f5c6cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e030b4d60f8c9ede16ae8934479623b5') in 0.030104 seconds
+  Import took 0.033692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/K8.mat
+  artifactKey: Guid(4a68a0cfc4d91c447b2fe408cb8e7dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/K8.mat using Guid(4a68a0cfc4d91c447b2fe408cb8e7dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b0784d56b73f7911683509fe0a239aa') in 0.042589 seconds
+  Import took 0.047850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/B2.mat
+  artifactKey: Guid(792fa418de0281e4bab622f9a60c88b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/B2.mat using Guid(792fa418de0281e4bab622f9a60c88b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f8341d6d57a8cc18eceee3e886db558') in 0.028297 seconds
+  Import took 0.031746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/F1.mat
+  artifactKey: Guid(0bce4c2bd5151644a8ec6f537140cbd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/F1.mat using Guid(0bce4c2bd5151644a8ec6f537140cbd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cc6a0749d0a9ea170caadcc9a5dc9b9') in 0.081496 seconds
+  Import took 0.085924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/K10.mat
+  artifactKey: Guid(bdcbb625d2db6d344907f63d3439281d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/K10.mat using Guid(bdcbb625d2db6d344907f63d3439281d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a0a93c2f9b11164d052a955e2a1420c') in 0.026963 seconds
+  Import took 0.033433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/G1.mat
+  artifactKey: Guid(73daffab7784ec040ba2d4d7302527f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/G1.mat using Guid(73daffab7784ec040ba2d4d7302527f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a787bb89fb7b7c183ed151e6ba7c2a75') in 0.028453 seconds
+  Import took 0.032057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/k5.mat
+  artifactKey: Guid(e495abf6588a1b944a3620fd1fee2b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/k5.mat using Guid(e495abf6588a1b944a3620fd1fee2b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af0e5868cdc5c2f13bb69cca5f50b802') in 0.030664 seconds
+  Import took 0.034543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/K9.mat
+  artifactKey: Guid(8d368d2c617522b4f8385162f26cacfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/K9.mat using Guid(8d368d2c617522b4f8385162f26cacfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de5fe9909218cf79bccc116c88fff94') in 0.027707 seconds
+  Import took 0.032254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000791 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/K6.mat
+  artifactKey: Guid(ee406a0d2cd53e046b9c7bcfdcc189a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/K6.mat using Guid(ee406a0d2cd53e046b9c7bcfdcc189a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5316ca4c39f7fde71785e3c3ccccd22c') in 0.029098 seconds
+  Import took 0.033347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000520 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/H1.mat
+  artifactKey: Guid(764481942b4df2a40857026c71dfae1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/H1.mat using Guid(764481942b4df2a40857026c71dfae1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b938f7bd5007611416bcd71b8ea031') in 0.041140 seconds
+  Import took 0.047290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000827 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/J3.mat
+  artifactKey: Guid(5fd1fed63457bc14abea612957703653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/J3.mat using Guid(5fd1fed63457bc14abea612957703653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463793e944124b1b56da79ea905d1492') in 0.028648 seconds
+  Import took 0.032988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/H3.mat
+  artifactKey: Guid(9db90062b4af0004b94c5754b65e4379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/H3.mat using Guid(9db90062b4af0004b94c5754b65e4379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12c6d7d8cde27a096db6aedbfbac30a8') in 0.040890 seconds
+  Import took 0.044723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/k11.mat
+  artifactKey: Guid(a7f2d3722f408d146b37cba315bc996f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/k11.mat using Guid(a7f2d3722f408d146b37cba315bc996f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ee6b9701f8f61950491e394ea34aa55') in 0.025682 seconds
+  Import took 0.028887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000516 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/I1.mat
+  artifactKey: Guid(09bb7389d12b7fe4cb01b4d2afb6b0a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/I1.mat using Guid(09bb7389d12b7fe4cb01b4d2afb6b0a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc5595e04efe4e7a2c719a497842b58f') in 0.045478 seconds
+  Import took 0.049220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/K3.mat
+  artifactKey: Guid(623f2cfcc0ce09149a6f467ad4256295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/K3.mat using Guid(623f2cfcc0ce09149a6f467ad4256295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9faafbd8fd497025bc6202279670a5ee') in 0.028368 seconds
+  Import took 0.031947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/G2.mat
+  artifactKey: Guid(8a92d92c33dbd87489558551e9ce75ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/G2.mat using Guid(8a92d92c33dbd87489558551e9ce75ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e806661e8b81de27f5d839193d8ba9aa') in 0.039198 seconds
+  Import took 0.044632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Simple city plain/Material & Texture/Colors_buildings/F3.mat
+  artifactKey: Guid(2d6209e982156604ea6d7c513bc7b774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Colors_buildings/F3.mat using Guid(2d6209e982156604ea6d7c513bc7b774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8c292f2c5d3294679697eee95dcb392') in 0.024976 seconds
+  Import took 0.029250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.057143 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh
+  artifactKey: Guid(c3579caf36429794f9ba06747eeab259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh using Guid(c3579caf36429794f9ba06747eeab259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d1afdff246175f16504e4dac7a80dd5') in 0.014461 seconds
+  Import took 0.018543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.087171 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/Bench texture.png
+  artifactKey: Guid(9a4a04b84933213428ed33e0c31813b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/Bench texture.png using Guid(9a4a04b84933213428ed33e0c31813b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e00d3f3c73228df1abcae0e5d401d6d9') in 0.179500 seconds
+  Import took 0.183769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/grass.mat
+  artifactKey: Guid(9904cd0f6245e884999431c0bdf22fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/grass.mat using Guid(9904cd0f6245e884999431c0bdf22fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a9d007b42d2381b217ee5a20a146f4c') in 0.020597 seconds
+  Import took 0.023527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/street 3.mat
+  artifactKey: Guid(7e20040aa26e36443b2ae6d45e7b8ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/street 3.mat using Guid(7e20040aa26e36443b2ae6d45e7b8ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd925a2e6f1b2af4c39f2a52ce3409897') in 0.019575 seconds
+  Import took 0.022326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/pot_plant_leaf.png
+  artifactKey: Guid(cf21488ffdf03a249b361ac7b5f2d5f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/pot_plant_leaf.png using Guid(cf21488ffdf03a249b361ac7b5f2d5f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86b33105a6f6899a48471ef42b9b0206') in 0.016678 seconds
+  Import took 0.021461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/big trash bin texture.png
+  artifactKey: Guid(cb629d531f414f64288cca236d43f674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/big trash bin texture.png using Guid(cb629d531f414f64288cca236d43f674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88330a47b473f5fe5037151bb71b4676') in 0.027819 seconds
+  Import took 0.033289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/Shop_B_Texture.png
+  artifactKey: Guid(2d0557711b6926441b57384036df45a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/Shop_B_Texture.png using Guid(2d0557711b6926441b57384036df45a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d8604dd4fb0deccdb14577ef7910df8') in 0.033638 seconds
+  Import took 0.037192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/Gas_pump_texture.png
+  artifactKey: Guid(eb51553d840fc824a9b6b45fefb28750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/Gas_pump_texture.png using Guid(eb51553d840fc824a9b6b45fefb28750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec2040ca6dcd5bf90d6a85801a54800') in 0.022806 seconds
+  Import took 0.028277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000816 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/Grid.mat
+  artifactKey: Guid(f2f02f2d34418854d80798cb0fa82bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/Grid.mat using Guid(f2f02f2d34418854d80798cb0fa82bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d9f10688072ceae28465fba5a23e549') in 0.446991 seconds
+  Import took 0.450058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/SideWay.mat
+  artifactKey: Guid(826ead3abf95f194996cb8156de6f671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/SideWay.mat using Guid(826ead3abf95f194996cb8156de6f671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4af1fab7d22180d05bf1200734a81ed9') in 0.026589 seconds
+  Import took 0.031943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/ColaMachine.mat
+  artifactKey: Guid(439eb576ca1364e47a9cda1cab72e5dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/ColaMachine.mat using Guid(439eb576ca1364e47a9cda1cab72e5dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e890d6215afc4df38c10c12a2643edb') in 0.026634 seconds
+  Import took 0.029977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001407 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/Big_trash_bin.mat
+  artifactKey: Guid(b6e4dbecc938a2948b3839b7d1409514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/Big_trash_bin.mat using Guid(b6e4dbecc938a2948b3839b7d1409514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01c3922f02930fce3e3704a75a6db2e9') in 0.031931 seconds
+  Import took 0.039272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/Pot_tree.mat
+  artifactKey: Guid(3b40b8ee00299524ea7fc922043f7454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/Pot_tree.mat using Guid(3b40b8ee00299524ea7fc922043f7454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ade4f803f17a7679d470f9ff647872e') in 0.040941 seconds
+  Import took 0.046898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/Street_03.png
+  artifactKey: Guid(16380d10f7bec4543adccda1aeb700f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/Street_03.png using Guid(16380d10f7bec4543adccda1aeb700f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98e8cfb46d22371790b26f80347ee2fd') in 0.020222 seconds
+  Import took 0.023492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/tree leaf.mat
+  artifactKey: Guid(45aa121491da72e4b8c0fcdb4533272d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/tree leaf.mat using Guid(45aa121491da72e4b8c0fcdb4533272d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c76d24d7d0fcc3d961acc01dc1065b11') in 0.029166 seconds
+  Import took 0.033167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/gas pump.mat
+  artifactKey: Guid(1f3aed826d0deb142ae61d35be7f4ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/gas pump.mat using Guid(1f3aed826d0deb142ae61d35be7f4ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0574482b423b67e1b7fad3fdafd15ff3') in 0.045683 seconds
+  Import took 0.048748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/grass.png
+  artifactKey: Guid(761fcc9b74a11dc4097e656edc402314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/grass.png using Guid(761fcc9b74a11dc4097e656edc402314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba59504e63ac500c4396f55d8edad22b') in 0.020229 seconds
+  Import took 0.024132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/leafes tree 1.png
+  artifactKey: Guid(d77ac9832e1f7ce4e8ad8e45903243e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/leafes tree 1.png using Guid(d77ac9832e1f7ce4e8ad8e45903243e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '318ac81192294d6d9db33ef782158831') in 0.016284 seconds
+  Import took 0.020888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/Hydrant.mat
+  artifactKey: Guid(84656e979de647d48a1dffd409494192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/Hydrant.mat using Guid(84656e979de647d48a1dffd409494192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3a16f3961808aeefce28eaa253a25f1') in 0.032332 seconds
+  Import took 0.036226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/coke_machine_texture.png
+  artifactKey: Guid(1936ed2defc3a7f4b906965a34d00aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/coke_machine_texture.png using Guid(1936ed2defc3a7f4b906965a34d00aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4df2ee0c768748422a201b2c89b0c97b') in 0.036476 seconds
+  Import took 0.040293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000714 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/Dirt.mat
+  artifactKey: Guid(9b0509cf5979e03459b722142113657c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/Dirt.mat using Guid(9b0509cf5979e03459b722142113657c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7afa20241d6804123ed53cbac890bffa') in 0.032703 seconds
+  Import took 0.036300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/grid.png
+  artifactKey: Guid(9922cb1c199ed85459518a9fea40e481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/grid.png using Guid(9922cb1c199ed85459518a9fea40e481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9a42c2cd79c0f625a0f9a9a0550cddd') in 0.021081 seconds
+  Import took 0.024625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/bench.mat
+  artifactKey: Guid(0cfe2f16ddac5b04b8acda9e8f8cb3ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/bench.mat using Guid(0cfe2f16ddac5b04b8acda9e8f8cb3ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d904935a38eba9d9ed6e1f8176fb7df') in 0.028432 seconds
+  Import took 0.031812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/Sidewalk_texture.png
+  artifactKey: Guid(1128a08027af2aa4eb774377b46c3064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/Sidewalk_texture.png using Guid(1128a08027af2aa4eb774377b46c3064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e0c77deb4747cebb7e1b8c34532fe81') in 0.022660 seconds
+  Import took 0.025956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/Dirt.mat
+  artifactKey: Guid(9b0509cf5979e03459b722142113657c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/Dirt.mat using Guid(9b0509cf5979e03459b722142113657c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7afa20241d6804123ed53cbac890bffa') in 0.038886 seconds
+  Import took 0.047260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/shop b.mat
+  artifactKey: Guid(d2ece15c27b1b3e42af178de8034e3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/shop b.mat using Guid(d2ece15c27b1b3e42af178de8034e3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7c5f54f2c6d3409348601916bbdb24d') in 0.043127 seconds
+  Import took 0.047518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/dirt.png
+  artifactKey: Guid(d90409e4a3fae7f46bbf0450da252846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/dirt.png using Guid(d90409e4a3fae7f46bbf0450da252846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95bf52be6a3c0e69df7ca473879bc4c6') in 0.029694 seconds
+  Import took 0.032682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005651 seconds.
+  path: Assets/Simple city plain/Material & Texture/Material mesh/shop b.mat
+  artifactKey: Guid(d2ece15c27b1b3e42af178de8034e3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Material & Texture/Material mesh/shop b.mat using Guid(d2ece15c27b1b3e42af178de8034e3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7c5f54f2c6d3409348601916bbdb24d') in 0.037777 seconds
+  Import took 0.043881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.537711 seconds.
+  path: Assets/Simple city plain/scene
+  artifactKey: Guid(c7dd9d330f3f56241bb983fcb0bd9d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/scene using Guid(c7dd9d330f3f56241bb983fcb0bd9d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df4befa03a3e78b5fbbb0abce9f9fd6d') in 0.015596 seconds
+  Import took 0.019647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.267435 seconds.
+  path: Assets/Simple city plain/scene/Demo Scene.unity
+  artifactKey: Guid(79f8bac4c75da6e43bd8288f7d84106c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/scene/Demo Scene.unity using Guid(79f8bac4c75da6e43bd8288f7d84106c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '512ad16dd7ad70ddc92c84d64f34c6b3') in 0.015742 seconds
+  Import took 0.020601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.959760 seconds.
+  path: Assets/Simple city plain/Prefabs/bench prefab.prefab
+  artifactKey: Guid(80c5916b9606ce646be16611d9a06d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/bench prefab.prefab using Guid(80c5916b9606ce646be16611d9a06d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce688984c1c5160a443e1af853800787') in 0.036716 seconds
+  Import took 0.040643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Simple city plain/Prefabs/Building_I_2_Prefab.prefab
+  artifactKey: Guid(1e198ff9400b5064c816d8f779eff296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Building_I_2_Prefab.prefab using Guid(1e198ff9400b5064c816d8f779eff296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e84e43efe4bc320ea15c05ac4c229e43') in 0.023550 seconds
+  Import took 0.026969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Simple city plain/Prefabs/Gas_station_A_PREFAB.prefab
+  artifactKey: Guid(01bbe20c855564648b02e0092e511cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Gas_station_A_PREFAB.prefab using Guid(01bbe20c855564648b02e0092e511cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e6e9414aa98ef1d11c8fcf0fbc0f88') in 0.025406 seconds
+  Import took 0.028695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Simple city plain/Prefabs/Building_I_1_prefab.prefab
+  artifactKey: Guid(931ecb32d754b3f40afc9a688c8cea66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Building_I_1_prefab.prefab using Guid(931ecb32d754b3f40afc9a688c8cea66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b64c84021181a2e048faf973175cb19') in 0.029185 seconds
+  Import took 0.035137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000643 seconds.
+  path: Assets/Simple city plain/Prefabs/Stone Floor prefab.prefab
+  artifactKey: Guid(ffa4d200e6c7d9c4b90b3764b7ed86d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Stone Floor prefab.prefab using Guid(ffa4d200e6c7d9c4b90b3764b7ed86d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '408d8d55908cedf998bc02ee425b2e25') in 0.027467 seconds
+  Import took 0.031086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Simple city plain/Prefabs/Building_M_prefab.prefab
+  artifactKey: Guid(84bb406b82cecb24cb1ffe5d4359339d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Building_M_prefab.prefab using Guid(84bb406b82cecb24cb1ffe5d4359339d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4244599bdf71aab99121fb826d61adb1') in 0.036503 seconds
+  Import took 0.043929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b39036624deda4bffd0397b93f563211') in 0.043838 seconds
+  Import took 0.050850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Simple city plain/Prefabs/Building_A1_prefab.prefab
+  artifactKey: Guid(562df8355904213468a690c4ce6740b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Building_A1_prefab.prefab using Guid(562df8355904213468a690c4ce6740b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc8434c7e54c671ce1beca904975535b') in 0.038626 seconds
+  Import took 0.042964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Simple city plain/Prefabs/Pot_tree prefab.prefab
+  artifactKey: Guid(8e00364320862a746a6e67a5af5e5979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Pot_tree prefab.prefab using Guid(8e00364320862a746a6e67a5af5e5979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7434527b4b7b2d8920defcc9fd7c327') in 0.117339 seconds
+  Import took 0.121233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Simple city plain/Prefabs/Building_N_Prefab.prefab
+  artifactKey: Guid(bbad862e7e06efe4a8ad0346a53e3cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Building_N_Prefab.prefab using Guid(bbad862e7e06efe4a8ad0346a53e3cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93f3dc5a37dfadddb107c0151b9b5264') in 0.084455 seconds
+  Import took 0.088565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Simple city plain/Prefabs/Grass Prefab.prefab
+  artifactKey: Guid(7446a392a730ac14d9cc70d21cf7ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Grass Prefab.prefab using Guid(7446a392a730ac14d9cc70d21cf7ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9679a0a162ab3f0d3cc81bb1c7c6e3') in 0.019526 seconds
+  Import took 0.022906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Simple city plain/Prefabs/street_lamp 1 prefab.prefab
+  artifactKey: Guid(6825a3fe8a1605f42a0d0589e582ac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/street_lamp 1 prefab.prefab using Guid(6825a3fe8a1605f42a0d0589e582ac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f05d7d4f6b5aaf01e24602afd4ecdcf') in 0.017732 seconds
+  Import took 0.022602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/Simple city plain/Prefabs/ColaMachine prefab.prefab
+  artifactKey: Guid(2bf7da734f1a8224fb14055902b5b343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/ColaMachine prefab.prefab using Guid(2bf7da734f1a8224fb14055902b5b343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa4ced5c639b90486f001e7e884446d') in 0.023415 seconds
+  Import took 0.027854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Simple city plain/Prefabs/Shop_B_prefab.prefab
+  artifactKey: Guid(9a52ba64c3a0abf49ad9515917ade04b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Shop_B_prefab.prefab using Guid(9a52ba64c3a0abf49ad9515917ade04b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2075ab015ad100b8169469f924d5f3ec') in 0.028624 seconds
+  Import took 0.033408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000498 seconds.
+  path: Assets/Simple city plain/Prefabs/Tree prefab.prefab
+  artifactKey: Guid(1be61187b5d765449be824463642cb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Tree prefab.prefab using Guid(1be61187b5d765449be824463642cb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e718759afbf63daf583c9d58705568c8') in 0.034844 seconds
+  Import took 0.040376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Simple city plain/Prefabs/Sideway Prefab.prefab
+  artifactKey: Guid(a9da80f587bbf9046aefc4a4cfb8a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Sideway Prefab.prefab using Guid(a9da80f587bbf9046aefc4a4cfb8a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e33bd318e5e163b0bba0e46c073f3766') in 0.034390 seconds
+  Import took 0.038969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Simple city plain/Prefabs/Big_trash_bin prefab.prefab
+  artifactKey: Guid(331560f2206dc024cb084301a19c05ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Big_trash_bin prefab.prefab using Guid(331560f2206dc024cb084301a19c05ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75969b7bdbb101b165cff88b76f35def') in 0.038563 seconds
+  Import took 0.044167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012601 seconds.
+  path: Assets/Simple city plain/Prefabs/Sideway Prefab.prefab
+  artifactKey: Guid(a9da80f587bbf9046aefc4a4cfb8a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Sideway Prefab.prefab using Guid(a9da80f587bbf9046aefc4a4cfb8a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e33bd318e5e163b0bba0e46c073f3766') in 0.018809 seconds
+  Import took 0.024140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 346.668030 seconds.
+  path: Assets/Simple city plain/Mesh/bench.fbx
+  artifactKey: Guid(2c2a46e9474367f42af1fdbfcc3c2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/bench.fbx using Guid(2c2a46e9474367f42af1fdbfcc3c2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c407fc9d78d3a9f9ab5b4677b323300b') in 0.066081 seconds
+  Import took 0.070163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Simple city plain/Mesh/Pot_tree.fbx
+  artifactKey: Guid(495aba848fd785f43bf771270ddea3dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Pot_tree.fbx using Guid(495aba848fd785f43bf771270ddea3dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c1c02406c41833c695f6fdc99d59924') in 0.035967 seconds
+  Import took 0.039181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Simple city plain/Mesh/Building_I_1.fbx
+  artifactKey: Guid(a31ede3a68c1fc642a73d7ab6870b43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Building_I_1.fbx using Guid(a31ede3a68c1fc642a73d7ab6870b43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76272d6be791f0af1aead335bc6bb92a') in 0.070866 seconds
+  Import took 0.075288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Simple city plain/Mesh/Big_trash_bin.fbx
+  artifactKey: Guid(221422f7266ae3249b686bbfb5989c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Big_trash_bin.fbx using Guid(221422f7266ae3249b686bbfb5989c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa530a518f6ac59304798d67af5f70f6') in 0.086425 seconds
+  Import took 0.090612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Simple city plain/Mesh/Hydrant.fbx
+  artifactKey: Guid(e929ac57e943d3c489f18cb67b6b4ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Hydrant.fbx using Guid(e929ac57e943d3c489f18cb67b6b4ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '605769a690383eca337149347fee1870') in 0.043242 seconds
+  Import took 0.048726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Simple city plain/Mesh/WalkWay 5.fbx
+  artifactKey: Guid(391ef46e275c80b408f222be809688a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/WalkWay 5.fbx using Guid(391ef46e275c80b408f222be809688a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '868a356317f0b2b279216c67c8b132dc') in 0.035905 seconds
+  Import took 0.041000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Simple city plain/Mesh/ColaMachine.fbx
+  artifactKey: Guid(2831f92b409a46f45a21bbde0b1f5107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/ColaMachine.fbx using Guid(2831f92b409a46f45a21bbde0b1f5107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b8dd86f90ab0858a9e26e565fe56a1b') in 0.043527 seconds
+  Import took 0.047140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Simple city plain/Mesh/Building_A1.fbx
+  artifactKey: Guid(e48ed78ee18a85b4ab1b16c0f67824b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Building_A1.fbx using Guid(e48ed78ee18a85b4ab1b16c0f67824b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5841ab886ee3f94d990564a106fd499') in 0.063021 seconds
+  Import took 0.068377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/Simple city plain/Mesh/Sidewalk_05.fbx
+  artifactKey: Guid(5b37bebced2befa4cb0fa7e92016e465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Sidewalk_05.fbx using Guid(5b37bebced2befa4cb0fa7e92016e465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db73d5d49566ac92d3e2b6c5aeaf74f8') in 0.057685 seconds
+  Import took 0.062641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Simple city plain/Mesh/Building_I_2.fbx
+  artifactKey: Guid(9f70c3b25552f8c4cbfc2dc5b60b2c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Building_I_2.fbx using Guid(9f70c3b25552f8c4cbfc2dc5b60b2c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c2b9f6de33afed41a8a6e47987c7cf') in 0.106576 seconds
+  Import took 0.115031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001241 seconds.
+  path: Assets/Simple city plain/Mesh/street_lamp 1.fbx
+  artifactKey: Guid(be2c575b59c07d54e937a759af1f404e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/street_lamp 1.fbx using Guid(be2c575b59c07d54e937a759af1f404e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa15c83292f7be04bacc6939296cdd3d') in 0.047852 seconds
+  Import took 0.055273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000959 seconds.
+  path: Assets/Simple city plain/Mesh/tree_01.fbx
+  artifactKey: Guid(679283963e23da7408c0cc75a881a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/tree_01.fbx using Guid(679283963e23da7408c0cc75a881a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73b52f3af4ad4fe30a2dc4b43c25dc58') in 0.080008 seconds
+  Import took 0.085580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Simple city plain/Mesh/street_.fbx
+  artifactKey: Guid(72e65272e9752d842a914dd27fd86306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/street_.fbx using Guid(72e65272e9752d842a914dd27fd86306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c28c34667a18642888f1c8c0401c835') in 0.036424 seconds
+  Import took 0.040982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Simple city plain/Mesh/Gas_station_A.fbx
+  artifactKey: Guid(5bb97b332176ae0499af0f666e4f5828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Gas_station_A.fbx using Guid(5bb97b332176ae0499af0f666e4f5828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9057139bb35969a6ad729225638a102d') in 0.060711 seconds
+  Import took 0.064819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Simple city plain/Mesh/Shop_B.fbx
+  artifactKey: Guid(82fffc905fad13948a591b76e545791d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Shop_B.fbx using Guid(82fffc905fad13948a591b76e545791d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09106197da4a2c325295cbf91be0e275') in 0.055794 seconds
+  Import took 0.059447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Simple city plain/Mesh/Building_N.fbx
+  artifactKey: Guid(55ca7edad2f1e3b40b4dc5801b9f454b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Building_N.fbx using Guid(55ca7edad2f1e3b40b4dc5801b9f454b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33113cca65706f8f4cc8b5a39af38d49') in 0.044381 seconds
+  Import took 0.050832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000837 seconds.
+  path: Assets/Simple city plain/Mesh/Building_M.fbx
+  artifactKey: Guid(33a58fa9897d81c4fa6655fc4a19a500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Building_M.fbx using Guid(33a58fa9897d81c4fa6655fc4a19a500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '395c7055709ad3b1a54963d640c7ad44') in 0.044143 seconds
+  Import took 0.048259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.627225 seconds.
+  path: Assets/Simple city plain/Mesh/Materials
+  artifactKey: Guid(c4c1fdc016a872c44a9642b4c0b01d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials using Guid(c4c1fdc016a872c44a9642b4c0b01d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '294a8a5c44e20dbd34bd61d40ec29fa6') in 0.014529 seconds
+  Import took 0.018583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.105252 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/anger stone 1.mat
+  artifactKey: Guid(4632de3c819c16547b62a56ae0796cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/anger stone 1.mat using Guid(4632de3c819c16547b62a56ae0796cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeed116ebdde98c04e94a2b1222b472c') in 0.024620 seconds
+  Import took 0.028064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/big trash bin texture.mat
+  artifactKey: Guid(052e2f7b6287d5243a7d4df56a0834dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/big trash bin texture.mat using Guid(052e2f7b6287d5243a7d4df56a0834dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bceb6bb76114f8b40b3028014df7c54') in 0.021779 seconds
+  Import took 0.025579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001153 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/coke_machine_texture.mat
+  artifactKey: Guid(0dc6d60ee50442f49844280ccb0bf841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/coke_machine_texture.mat using Guid(0dc6d60ee50442f49844280ccb0bf841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77d93095b7c35400697144c684f9d938') in 0.035136 seconds
+  Import took 0.039087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/white.mat
+  artifactKey: Guid(c000ecd63fe51cf46b158a3942cdced6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/white.mat using Guid(c000ecd63fe51cf46b158a3942cdced6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd51b75ac5da8ca8dfb63ee084eef23fa') in 0.029896 seconds
+  Import took 0.033532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Facade_01.mat
+  artifactKey: Guid(f5777822cb49ac6439ce3c291ed4f9e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Facade_01.mat using Guid(f5777822cb49ac6439ce3c291ed4f9e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244ae0edbacb09eed1b3f12921dc9baf') in 0.023769 seconds
+  Import took 0.028424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Pot.mat
+  artifactKey: Guid(8ddbb66e8053ff3458dfe6c2185c8aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Pot.mat using Guid(8ddbb66e8053ff3458dfe6c2185c8aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b281c698f1f96fa57b1234999226ee79') in 0.035587 seconds
+  Import took 0.039162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Roof.001.mat
+  artifactKey: Guid(b4d295328dc34bc46ac73aa4bbf0bd18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Roof.001.mat using Guid(b4d295328dc34bc46ac73aa4bbf0bd18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cbbdd7823310f507886305bf2b8a41b') in 0.022561 seconds
+  Import took 0.026827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/SideWalk.005.mat
+  artifactKey: Guid(f86d5fca36b34a544937138916ad45d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/SideWalk.005.mat using Guid(f86d5fca36b34a544937138916ad45d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5923bda2547907651a83a99d65b83467') in 0.022455 seconds
+  Import took 0.026440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/stairs.mat
+  artifactKey: Guid(d46a15161843db24da5d75736dea55bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/stairs.mat using Guid(d46a15161843db24da5d75736dea55bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab230eb530abde0d6613cf37dad072c') in 0.041608 seconds
+  Import took 0.044913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/light.mat
+  artifactKey: Guid(3e3691cca4ebed3498aca4d3acc50868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/light.mat using Guid(3e3691cca4ebed3498aca4d3acc50868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73f604eb45f22dbbbd5afba098b3a9bf') in 0.025163 seconds
+  Import took 0.028944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Facade_02.mat
+  artifactKey: Guid(f8884519cbff51a4c85e482d2507a431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Facade_02.mat using Guid(f8884519cbff51a4c85e482d2507a431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c230f4e2b257d19343155865d2d509') in 0.021115 seconds
+  Import took 0.026213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Material.mat
+  artifactKey: Guid(6505500d4847d2942b3f8340a566e571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Material.mat using Guid(6505500d4847d2942b3f8340a566e571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f75f4889f0c05266a6a904f2be8d79d') in 0.022799 seconds
+  Import took 0.026719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/WhiteWood.mat
+  artifactKey: Guid(5b4da9ac095b59a4f8a2c3a2cb04364c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/WhiteWood.mat using Guid(5b4da9ac095b59a4f8a2c3a2cb04364c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ff32511e3bd6542ab22a795162729d6') in 0.037049 seconds
+  Import took 0.042286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Stone_01.mat
+  artifactKey: Guid(dd70dfb4773927b42bc24d5a9f77c822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Stone_01.mat using Guid(dd70dfb4773927b42bc24d5a9f77c822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db356384bdb0f89db3148f2d7189b067') in 0.023250 seconds
+  Import took 0.028048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000636 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/fire_escape_01.mat
+  artifactKey: Guid(dc6008de7cbd71246bf93d97012d8355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/fire_escape_01.mat using Guid(dc6008de7cbd71246bf93d97012d8355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ffe666fd3b4d29d0073fa608c1ef18b') in 0.033704 seconds
+  Import took 0.040463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Door_05.mat
+  artifactKey: Guid(dd103105d650d7b4f912df7c0eef5133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Door_05.mat using Guid(dd103105d650d7b4f912df7c0eef5133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b0b4f2e910fb91deb8a633ee7ecd845') in 0.026954 seconds
+  Import took 0.030282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/window 1.mat
+  artifactKey: Guid(549f5e11592427b43ae7a07ef716b31c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/window 1.mat using Guid(549f5e11592427b43ae7a07ef716b31c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5eec6710b25d3c598a6a27ce1faaedc') in 0.025116 seconds
+  Import took 0.028951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Fire_escape_04.mat
+  artifactKey: Guid(763f84ae691f245489ac01e9dda15228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Fire_escape_04.mat using Guid(763f84ae691f245489ac01e9dda15228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a98e9709a2095dd08f9a57741e1c274') in 0.026082 seconds
+  Import took 0.030470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/window 2.mat
+  artifactKey: Guid(1848815e8b24e334e8e2705a41c21517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/window 2.mat using Guid(1848815e8b24e334e8e2705a41c21517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49681b0a388b6932a7682bb9e630919d') in 0.026033 seconds
+  Import took 0.030259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/window frames.mat
+  artifactKey: Guid(0cec50b0e4a1d7e4688aaac8135eb9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/window frames.mat using Guid(0cec50b0e4a1d7e4688aaac8135eb9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae15453532058ed5f471b7030aa60640') in 0.023929 seconds
+  Import took 0.029699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000670 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Roof_03.mat
+  artifactKey: Guid(7ce1a59945b741b49847f6e3f42ac41b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Roof_03.mat using Guid(7ce1a59945b741b49847f6e3f42ac41b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '032e4d08167d17beda686652d16bef66') in 0.029936 seconds
+  Import took 0.035649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Gold.mat
+  artifactKey: Guid(27e32fc31bf8cff41a61745d19cf8b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Gold.mat using Guid(27e32fc31bf8cff41a61745d19cf8b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b45f57d8033eeedfb5400aab117b4d1a') in 0.027537 seconds
+  Import took 0.031363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Window_frames.mat
+  artifactKey: Guid(ceb8d42bbccc0b04b918cd6fe9f919de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Window_frames.mat using Guid(ceb8d42bbccc0b04b918cd6fe9f919de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bcbe8c54662a9a31b5920a212e8bf29') in 0.030409 seconds
+  Import took 0.034992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Windows_02.mat
+  artifactKey: Guid(eab35950d0b61f44b99a19cc137ba203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Windows_02.mat using Guid(eab35950d0b61f44b99a19cc137ba203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d8ff2b493ed57b1ed361802a159ad1') in 0.024960 seconds
+  Import took 0.028367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001036 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/wood.mat
+  artifactKey: Guid(35c63bffc349c2c429ad562e77f4bdd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/wood.mat using Guid(35c63bffc349c2c429ad562e77f4bdd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a19134cf7b5e8d723f7396d3dc34110') in 0.022968 seconds
+  Import took 0.028232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/fire_escape_02.mat
+  artifactKey: Guid(51ec56ea7dab4bd41a889ccba1515369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/fire_escape_02.mat using Guid(51ec56ea7dab4bd41a889ccba1515369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3faba8c7ed2c4aa31ea4547cca0d46ab') in 0.028026 seconds
+  Import took 0.032872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Windows.mat
+  artifactKey: Guid(14a01e8dee18dde4ba19ed472623cb6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Windows.mat using Guid(14a01e8dee18dde4ba19ed472623cb6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18ecf565bb8223f90524b883ed4ff15f') in 0.025683 seconds
+  Import took 0.029360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Door.mat
+  artifactKey: Guid(8680f2b27fc85a740a4f31cd5f219793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Door.mat using Guid(8680f2b27fc85a740a4f31cd5f219793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd34124ab74822715d6929ed029f96c') in 0.025797 seconds
+  Import took 0.030454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Brown.mat
+  artifactKey: Guid(261a463d10557cc4f973897af4082ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Brown.mat using Guid(261a463d10557cc4f973897af4082ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7caf36aa6ea39b3a7be0ad10231624ec') in 0.026465 seconds
+  Import took 0.031104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/door 2.mat
+  artifactKey: Guid(fd7c468522f7a7849a32247403c866a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/door 2.mat using Guid(fd7c468522f7a7849a32247403c866a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4f0cade51534406c37bca7292db94eb') in 0.032667 seconds
+  Import took 0.038037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Door_04.mat
+  artifactKey: Guid(c1001c090ff642844bc15a8849556a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Door_04.mat using Guid(c1001c090ff642844bc15a8849556a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c37a8fc2a587a416e4931cf267d5c0ba') in 0.024850 seconds
+  Import took 0.030172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/leafes.mat
+  artifactKey: Guid(9e98163bda077f64c99b7af78ba62e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/leafes.mat using Guid(9e98163bda077f64c99b7af78ba62e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61e8a9f2e1e5f4fd4216c4e0de1849ff') in 0.025651 seconds
+  Import took 0.029473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/roof 1.mat
+  artifactKey: Guid(abbf5dcf346cc89468e55710de579d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/roof 1.mat using Guid(abbf5dcf346cc89468e55710de579d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb7aa0cbdf1ea37137f302b2d39f86c9') in 0.022787 seconds
+  Import took 0.028078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000565 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Window_board.mat
+  artifactKey: Guid(67749c9b814c560418f87139abe47240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Window_board.mat using Guid(67749c9b814c560418f87139abe47240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2dd3a79e9f60c0b2c0441d32cf9925d') in 0.025459 seconds
+  Import took 0.030132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Roof_04.mat
+  artifactKey: Guid(8018c08f31f5e6d40bfc74da0bc17c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Roof_04.mat using Guid(8018c08f31f5e6d40bfc74da0bc17c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d5a6a3b428276f02fced3cf84e92f12') in 0.025025 seconds
+  Import took 0.029593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000696 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Grid.mat
+  artifactKey: Guid(ed86ee7533b76af439358289a78375c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Grid.mat using Guid(ed86ee7533b76af439358289a78375c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7f8e3846d39d636701aec9c7d1b1676') in 0.021102 seconds
+  Import took 0.024654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/parking meter texture.mat
+  artifactKey: Guid(2427b932421ee1f49bdcb20fe7d611d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/parking meter texture.mat using Guid(2427b932421ee1f49bdcb20fe7d611d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82d7508ed07b055aa0c92e31e7693cc2') in 0.028048 seconds
+  Import took 0.031134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Floor.mat
+  artifactKey: Guid(b3e303cf1077c5f44af1e44c0ddeb550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Floor.mat using Guid(b3e303cf1077c5f44af1e44c0ddeb550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd10a03955787af020dad0eb39c9278a') in 0.025382 seconds
+  Import took 0.030047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001005 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Window_frames.001.mat
+  artifactKey: Guid(bc78a8a5f7287224db110143a1910e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Window_frames.001.mat using Guid(bc78a8a5f7287224db110143a1910e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dcf5923b172776ffb166cc113fc152f') in 0.032662 seconds
+  Import took 0.039226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Door_02.mat
+  artifactKey: Guid(174d12f870167864c906946439a0bf42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Door_02.mat using Guid(174d12f870167864c906946439a0bf42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '557f5bbc965af1cd39ca945d425bc820') in 0.028579 seconds
+  Import took 0.031787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/congregate.mat
+  artifactKey: Guid(4629bd68a54c95944a3cf72b41ad6cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/congregate.mat using Guid(4629bd68a54c95944a3cf72b41ad6cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9037b614b68d8bb136d732af14a32dcf') in 0.025268 seconds
+  Import took 0.028837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Facade.mat
+  artifactKey: Guid(f8802959c84e5a249b1d7cb0d1e4f39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Facade.mat using Guid(f8802959c84e5a249b1d7cb0d1e4f39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b7db3b84391728f58b02db5142d0aa7') in 0.023401 seconds
+  Import took 0.029252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000687 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Stone_02.mat
+  artifactKey: Guid(19aeb239c359ca948a7237adb97bec7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Stone_02.mat using Guid(19aeb239c359ca948a7237adb97bec7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '646e17d3615f330d4ecdb86af03e9673') in 0.024710 seconds
+  Import took 0.028094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Fire_escape_03.mat
+  artifactKey: Guid(4b79a08e1a5e6694ab67927cc893a39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Fire_escape_03.mat using Guid(4b79a08e1a5e6694ab67927cc893a39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a82e8298a7fbb833b91a68480a219265') in 0.027034 seconds
+  Import took 0.030347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Sideway.005.mat
+  artifactKey: Guid(f146251d4bb3e4e46bb0cfbb2f99dfdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Sideway.005.mat using Guid(f146251d4bb3e4e46bb0cfbb2f99dfdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c6862e6ed3bd74e5d3bee3f8423a6d6') in 0.022239 seconds
+  Import took 0.025715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/anger stone 2.mat
+  artifactKey: Guid(cd48a250b4f56df46a50245a37f57e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/anger stone 2.mat using Guid(cd48a250b4f56df46a50245a37f57e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b070fb07f731a4788fb76c793a44a31') in 0.031812 seconds
+  Import took 0.036040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Texture.mat
+  artifactKey: Guid(4e3e30d31b81a6340be21b3da8b9dfe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Texture.mat using Guid(4e3e30d31b81a6340be21b3da8b9dfe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4db2a86e17362a18baa4ca48ebe5b9d') in 0.028857 seconds
+  Import took 0.032517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Bench texture.mat
+  artifactKey: Guid(884732dff6a876e418d94b6d888b1cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Bench texture.mat using Guid(884732dff6a876e418d94b6d888b1cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d4d04277a53ad472877502fc6ed3f7') in 0.024909 seconds
+  Import took 0.030998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000541 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/railing.mat
+  artifactKey: Guid(414094d0584a184478c4b6b13e54bb16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/railing.mat using Guid(414094d0584a184478c4b6b13e54bb16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d8f365457b29c579fa3ccc8a19d9ac0') in 0.024586 seconds
+  Import took 0.029511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Surface.mat
+  artifactKey: Guid(2a1ac145f06be3245bc0a3db080d6bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Surface.mat using Guid(2a1ac145f06be3245bc0a3db080d6bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83f37c161ab4bd58771ed29471846630') in 0.023571 seconds
+  Import took 0.028389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Grass.mat
+  artifactKey: Guid(a5c775450ca6c2a4e835f5ca0da65b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Grass.mat using Guid(a5c775450ca6c2a4e835f5ca0da65b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08ff28a76b7f7b7326f3abb0c547e794') in 0.026815 seconds
+  Import took 0.030822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Roof_02.mat
+  artifactKey: Guid(40b5389df3b83c743b0a550386617497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Roof_02.mat using Guid(40b5389df3b83c743b0a550386617497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceabb750b6cacfc8f554c627ae44daf0') in 0.049204 seconds
+  Import took 0.053188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Grid_texture.mat
+  artifactKey: Guid(294573a8eb57da2428d50162d3586446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Grid_texture.mat using Guid(294573a8eb57da2428d50162d3586446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472efc97d8c9346b2476821f7c2b2e5d') in 0.035370 seconds
+  Import took 0.038927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Leaf.mat
+  artifactKey: Guid(b221fcaf95c20da48b6492ce8f90017b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Leaf.mat using Guid(b221fcaf95c20da48b6492ce8f90017b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c9eee9106b0e2c17bb79e5a5ffd933a') in 0.026010 seconds
+  Import took 0.030284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/metal.mat
+  artifactKey: Guid(61e084e542df0c14ebf1b454c34c0602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/metal.mat using Guid(61e084e542df0c14ebf1b454c34c0602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22287bcb8c0b08896706b19522d00836') in 0.025668 seconds
+  Import took 0.029227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Roof_01.mat
+  artifactKey: Guid(b5d3de0c3cbd6b74d8cabf9e1b45e0d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Roof_01.mat using Guid(b5d3de0c3cbd6b74d8cabf9e1b45e0d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b38dc8d21ea9e943b920bd4fae7e269') in 0.037800 seconds
+  Import took 0.043776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Windows_03.mat
+  artifactKey: Guid(6007f2c5775b53542b4ad0db5061967a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Windows_03.mat using Guid(6007f2c5775b53542b4ad0db5061967a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b111f6352297845faf0378494dd90c7') in 0.026833 seconds
+  Import took 0.031060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000689 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Pole.mat
+  artifactKey: Guid(868e59b6be168214d9c0c4bd1f0af0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Pole.mat using Guid(868e59b6be168214d9c0c4bd1f0af0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1666c8b7b0cb53a03c25b2beb60be7f') in 0.027165 seconds
+  Import took 0.030724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Metal_02.mat
+  artifactKey: Guid(b5fbc0654590d1447b2f3139c771e0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Metal_02.mat using Guid(b5fbc0654590d1447b2f3139c771e0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6f67eaa55493cdfb0acae7cfc640eda') in 0.021572 seconds
+  Import took 0.025349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/roof 2.mat
+  artifactKey: Guid(aa9cd870c44503247bc1f083f8173108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/roof 2.mat using Guid(aa9cd870c44503247bc1f083f8173108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5342047054d37c05d6beffa6351075da') in 0.037269 seconds
+  Import took 0.041401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Door_03.mat
+  artifactKey: Guid(15f9ae6ab975445469c0cb7941d7c446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Door_03.mat using Guid(15f9ae6ab975445469c0cb7941d7c446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aabae1e826ce03c19d5499ef6238586a') in 0.026234 seconds
+  Import took 0.029848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Windows_01.mat
+  artifactKey: Guid(68579e813bb6a11488b3c5f3aeb12b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Windows_01.mat using Guid(68579e813bb6a11488b3c5f3aeb12b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a0bb2a7d7cd9eecee31d43a957f271a') in 0.024773 seconds
+  Import took 0.028225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Roof.mat
+  artifactKey: Guid(81c16afd4515cc2488bb28869d902ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Roof.mat using Guid(81c16afd4515cc2488bb28869d902ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19ff67f964ef86318a7ef69c5c44b90b') in 0.031586 seconds
+  Import took 0.037245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/door 1.mat
+  artifactKey: Guid(2778096b6b0efef49bcf108ea21ebe2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/door 1.mat using Guid(2778096b6b0efef49bcf108ea21ebe2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b107a4283871e9be090de56a24a93a4') in 0.025112 seconds
+  Import took 0.028557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Stone.mat
+  artifactKey: Guid(4d78499dfdf62d44caf4f40d28efa94d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Stone.mat using Guid(4d78499dfdf62d44caf4f40d28efa94d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd071cd66a454affc22cd44198a601d') in 0.022567 seconds
+  Import took 0.025531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/dirt.mat
+  artifactKey: Guid(6cfb0becda4473b428217981353675c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/dirt.mat using Guid(6cfb0becda4473b428217981353675c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a2c4b20b807457e55dee6dfaf720d22') in 0.018353 seconds
+  Import took 0.022347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Simple city plain/Mesh/Materials/Door_01.mat
+  artifactKey: Guid(7a616280f19de3f4793175a447d22d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Mesh/Materials/Door_01.mat using Guid(7a616280f19de3f4793175a447d22d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05002be306e9206ba531e4e9a64303f') in 0.024724 seconds
+  Import took 0.028154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.369927 seconds.
+  path: Assets/SimpleEnviroment/Game
+  artifactKey: Guid(bbe1c2d17197c4821be1813c8d9a2e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleEnviroment/Game using Guid(bbe1c2d17197c4821be1813c8d9a2e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '738f6a4840257ad2715f9d610c65f962') in 0.013180 seconds
+  Import took 0.016722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.881693 seconds.
+  path: Assets/SimpleEnviroment/Game/enviroment_scene
+  artifactKey: Guid(3567965986a38437c80d09242f39cb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleEnviroment/Game/enviroment_scene using Guid(3567965986a38437c80d09242f39cb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf7ee16f485140adbd818b9b16faae5c') in 0.013685 seconds
+  Import took 0.017684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089774 seconds.
+  path: Assets/SimpleEnviroment/Game/enviroment_scene/LightingData.asset
+  artifactKey: Guid(9b2bc2fd494cf4f8387e1dddee91f860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleEnviroment/Game/enviroment_scene/LightingData.asset using Guid(9b2bc2fd494cf4f8387e1dddee91f860) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Lighting data asset ‘LightingData’ is inconsistent because 1 files out of 4 are missing.  Please use Generate Lighting to rebuild the lighting data.
+
+ -> (artifact id: 'f60da9b2e6596513d6d845d4d19d3170') in 0.011523 seconds
+  Import took 0.015094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039077 seconds.
+  path: Assets/SimpleEnviroment/Game/enviroment_scene/ReflectionProbe-0.exr
+  artifactKey: Guid(99b034ad897b442f1b820891c71bc556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleEnviroment/Game/enviroment_scene/ReflectionProbe-0.exr using Guid(99b034ad897b442f1b820891c71bc556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca91bb7297902ee799b55eafbef27629') in 0.111586 seconds
+  Import took 0.116183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.651658 seconds.
+  path: Assets/Simple city plain/Prefabs
+  artifactKey: Guid(9b3f41c9510b3cd43a8766a508dc6635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs using Guid(9b3f41c9510b3cd43a8766a508dc6635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '522d59385c3c3f2921b405cb55880c86') in 0.013709 seconds
+  Import took 0.017171 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000994 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.169 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.4 MB.
+System memory in use after: 62.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1631.
+Total: 2.507600 ms (FindLiveObjects: 0.181800 ms CreateObjectMapping: 0.050800 ms MarkObjects: 2.158900 ms  DeleteObjects: 0.113800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001146 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.165 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.4 MB.
+System memory in use after: 62.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1634.
+Total: 2.441100 ms (FindLiveObjects: 0.174300 ms CreateObjectMapping: 0.050500 ms MarkObjects: 2.080900 ms  DeleteObjects: 0.133100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
